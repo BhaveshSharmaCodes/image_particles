@@ -1,1 +1,3 @@
 # image_particles
+This an example of modern day innovations...
+Front-End with the help of JS.
